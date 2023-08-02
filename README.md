@@ -1,11 +1,12 @@
 <div>
   <h3>About Me</h3>
   <div>
+    <p>Hello! My name is Eric Furrevig.  I'm self-taught, full-stack developer looking for opportunities to solve interesting problems, explore new technologies, and learn in a professional, team-oriented environment.  Welcome to my Github page!</p>
     <ul>
-      <li>🌱 <b>I'm currently learning:</b> Nextjs, React, Typescript</li>
-      <li>🎯 <b>I'm currently focusing on:</b> </li>
-      <li>🤔 <b>I'm currently open for: </b> </li>
-      <li>📫 <b>How to reach me: </b> efurrevig@gmail.com </li>
+      <li> 🌱 <b>I'm currently learning:</b> Nextjs, React, Typescript </li>
+      <li> 🎯 <b>I'm currently focusing on:</b> NextJS/Rails fullstack Reddit clone </li>
+      <li> 🤔 <b>I'm currently open for:</b> Job opportunities </li>
+      <li> 📫 <b>How to reach me: </b> efurrevig@gmail.com </li>
     </ul>
   </div>
   <h3> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h3>

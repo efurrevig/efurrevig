@@ -5,7 +5,7 @@
       <li>🌱 <b>I'm currently learning:</b> Nextjs, React, Typescript</li>
       <li>🎯 <b>I'm currently focusing on:</b> </li>
       <li>🤔 <b>I'm currently open for: </b> </li>
-      <li>📫 <b>How to reach me: efurrevig@gmail.com </b></li>
+      <li>📫 <b>How to reach me: </b> efurrevig@gmail.com </li>
     </ul>
   </div>
   <h3> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h3>

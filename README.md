@@ -31,5 +31,10 @@
       <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white" />
   </div>
+
+  <h3>Contact Me</h3>
+  <div>
+    <p>efurrevig@gmail.com</p>
+  </div>
 </div>
 
